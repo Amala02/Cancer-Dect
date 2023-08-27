@@ -10,4 +10,4 @@ mycolorpy
 plotly
 plotly-express
 mmcv-full --no-binary mmcv-full
-ultralytics
+ultralytics==8.0.163
