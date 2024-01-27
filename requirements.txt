@@ -1,7 +1,7 @@
-streamlit==1.19.0
-numpy==1.21.4
-opencv-python-headless==4.3.0.38
-Pillow==9.4.0
+streamlit
+numpy
+opencv-python-headless
+Pillow
 mmdet
 mmocr
 paddleocr
